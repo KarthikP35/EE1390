@@ -1,2 +1,2 @@
 # EE1390
-Intro to AI and ML
+Artificial Intelligence and Machine Learning Matrix Project
